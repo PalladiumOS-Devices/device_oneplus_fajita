@@ -43,7 +43,7 @@ EXTRA_FOD_ANIMATIONS := true
 
 # Maintainer & Device Props
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.palladiumdevice.maintainer=Durgesh33 \
+    ro.palladiumdevice.maintainer=ZahidM_Choudhry \
     ro.palladiumdevice.cpu=SDM845\
     ro.palladiumdevice.display=6.41 \
     ro.palladiumdevice.displaytype=Optic.AMOLED \
