@@ -22,9 +22,6 @@ DEVICE_PATH := device/oneplus/fajita
 # Assert
 TARGET_OTA_ASSERT_DEVICE := OnePlus6T
 
-# Kernel_defconfig
-TARGET_KERNEL_CONFIG := sdm845-perf_defconfig
-
 # FOD
 TARGET_SURFACEFLINGER_FOD_LIB := //$(DEVICE_PATH):libfod_extension.oneplus_fajita
 
